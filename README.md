@@ -18,4 +18,9 @@ I have been working and studying in the tech world since 2019, and I have loved 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8D1D9&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
