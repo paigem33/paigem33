@@ -16,3 +16,6 @@ I have been working and studying in the tech world since 2019, and I have loved 
 ![](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8D1D9&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
