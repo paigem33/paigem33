@@ -20,7 +20,10 @@ I have been working and studying in the tech world since 2019, and I have loved 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML         2 hrs 9 mins    ████████████████▒░░░░░░░░   65.89 %
+Python       58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
