@@ -18,8 +18,6 @@ I have been working and studying in the tech world since 2019, and I have loved 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8D1D9&width=435&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C565%20hrs%2059%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,10 +34,6 @@ VS Code                  3 hrs 16 mins       ███████████�
 Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/paigem33/paigem33/main/assets/bar_graph.png)
-
-
- Last Updated on 27/02/2023 04:30:08 UTC
+ Last Updated on 27/02/2023 04:37:05 UTC
 <!--END_SECTION:waka-->
