@@ -3,6 +3,8 @@
 I am currently finishing up my Computer Science degree while working as a Fullstack Developer. I am based in Northern Utah, USA. \
 I have been working and studying in the tech world since 2019, and I have loved (almost) every second of it! I enjoy having the opprotunity to learn new skills and solve new problems everyday, one line of code at a time.  
 
+When I'm not at my computer, you can find me hanging out with my cat, watching tv, hiking with my dog, rock climbing, camping, or sewing.  
+
 ### What I'm currently learning and using :woman_technologist:
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
