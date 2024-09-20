@@ -22,4 +22,7 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           SHOW_TOTAL_CODE_TIME: false
+          SHOW_OS: false
+          SHOW_LANGUAGE: false
+          SHOW_EDITORS: false
           
