@@ -1,6 +1,6 @@
 ## Hi, I'm Paige! :vulcan_salute:
 
-I am a recent Computer Science graduate from USU, and I am currently working as a .Net Developer. I am based in Northern Utah, USA. \
+I am a recent Computer Science graduate from Utah State University, and I am currently working as a .Net Developer. I am based in Northern Utah, USA. \
 I have been working and studying in the tech world since 2019, and I have loved (almost) every second of it! I enjoy having the opprotunity to learn new skills and solve new problems everyday, one line of code at a time.  
 
 When I'm not at my computer for school or work, you can find me hanging out with my cat, watching tv, hiking with my dog, rock climbing (poorly), camping, or sewing.  
