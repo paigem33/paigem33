@@ -1,9 +1,12 @@
 ## Hi, I'm Paige! :vulcan_salute:
 
-I am a recent Computer Science graduate from Utah State University, and I am currently working as a .Net Developer. I am based in Northern Utah, USA. \
-I have been working and studying in the tech world since 2019, and I have loved (almost) every second of it! I enjoy having the opprotunity to learn new skills and solve new problems everyday, one line of code at a time.  
+I'm a fullstack developer with 7+ years of hands-on experience building web (and some mobile) applications across a range of tech stacks, including .NET, Laravel, Vue.js, and WordPress. I love the challenge of solving problems, both the satisfying ones and the ones that make you want to flip your desk, because every line of code is a chance to learn something new.
 
-When I'm not at my computer you can find me hanging out with my cat, watching tv, hiking with my dog, rock climbing (poorly), camping, or sewing.  
+My journey started in 2019 after graduating from a coding bootcamp in San Diego. From there, I landed my first developer role and quickly discovered that this was the career I wanted to grow in long-term. That passion led me to pursue and earn a Computer Science degree from Utah State University in 2024, all while continuing to build real-world experience in industry roles.
+
+I've developed RESTful APIs, built mobile-friendly interfaces, led developer onboarding, integrated complex third-party APIs, and worked in fast-paced Agile teams. Whether I’m refining legacy systems, launching brand new apps, or helping new devs get up to speed, I bring a thoughtful, collaborative approach to everything I do.
+
+When I’m not coding, you’ll usually find me out on a trail, lost in a book, or rewatching Star Trek: The Next Generation (again). I’m always open to connecting with other developers, collaborators, or anyone who geeks out over clean code and cool tech. 
 
 ### Some of my favorites :woman_technologist:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
